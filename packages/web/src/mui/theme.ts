@@ -16,7 +16,7 @@ export type CustomTheme = Theme & {
   };
 };
 
-const primary = "#2176AE";
+const primary = "#e09a66";
 const titleFontFamily = '"Roboto Slab", "Noto Serif", "Times New Roman", serif';
 
 export const theme: CustomTheme = {
@@ -27,7 +27,7 @@ export const theme: CustomTheme = {
           main: primary
         },
         secondary: {
-          main: "#FF007B"
+          main: "#284e74"
         },
         error: {
           main: red.A400
